@@ -1,0 +1,13 @@
+{
+"firstName": "João",
+"lastName": "da Silva",
+"cpf": "123.4567.89-01",
+"address": "Avenida Brasil",
+"city": "Florianópolis",
+"state": "Santa Catarina",
+"phone": "",
+"email": "joaosilva@gmail.com",
+"hospital": "hospital baia sul",
+"cardNo": "7844481124110331",
+"appointmentDate": "2025-06-02"
+}
