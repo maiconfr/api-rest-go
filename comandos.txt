@@ -1,2 +1,0 @@
-no visual studio
-go run main.go
