@@ -8,7 +8,7 @@ f = open('dados.json')
 
 data = json.load(f)
 
-#Concateação
+#Concatenação
 fullName = data["firstName"]+" "+data["lastName"]
 data["fullName"] = fullName
 # Excluindo 'firstName' e 'lastName'
