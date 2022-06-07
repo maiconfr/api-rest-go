@@ -19,8 +19,9 @@ data.pop("lastName")
 data["cpf"] = limpaCPF(data["cpf"])
 print("CPF limpo:", data["cpf"])
 
+# Enviando dados para a API
 resposta = reqPost(data)
-
 print("Resposta da API: "+resposta)
+
 # Fechando arquivo JSON
 f.close()
