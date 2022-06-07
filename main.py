@@ -21,5 +21,6 @@ print("CPF limpo:", data["cpf"])
 
 resposta = reqPost(data)
 
+print("Resposta da API: "+resposta)
 # Fechando arquivo JSON
 f.close()
